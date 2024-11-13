@@ -1,6 +1,5 @@
 package com.banking.account_service.controller;
 
-import com.banking.account_service.dto.CustomerRequest;
 import com.banking.account_service.model.Customer;
 import com.banking.account_service.service.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
